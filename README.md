@@ -24,8 +24,6 @@ Este projeto é um sorteador de números desenvolvido em JavaScript, HTML e CSS.
 
 ## 📸 Imagem do Programa
 
-Adicione a imagem do programa aqui:
-![Imagem do Programa](./img/programa.png)
+![Imagem do Programa](./img/programa.PNG)
 
-## 📂 Estrutura do Projeto
 
