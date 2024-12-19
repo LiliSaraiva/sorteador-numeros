@@ -22,7 +22,9 @@ Este projeto é um sorteador de números desenvolvido em JavaScript, HTML e CSS.
 - **CSS:** Estilo e layout.
 - **JavaScript:** Lógica do sorteio e interação com o usuário.
 
-## 📸 Imagem do Programa
+## 📸 Imagem e Link para acesso
+
+Acesse aqui: [Link para o Programa](https://sorteador-numeros-wine.vercel.app/)
 
 ![Imagem do Programa](./img/programa.PNG)
 
